@@ -7,6 +7,7 @@ export default function Home() {
         backgroundColor: "green",
         height: "100%",
       }}
+      
     >
       This is the home page
     </div>
